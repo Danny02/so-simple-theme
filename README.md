@@ -467,6 +467,16 @@ google_analytics: UA-NNNNNNNN-N
 
 Similar to Disqus comments above, the Google Analytics tracking script will only appear in production when using the following environment value: `JEKYLL_ENV=production`.
 
+### Goat Counter
+
+To enable [**Goat Counter**](https://www.goatcounter.com/), add your code to `_config.yml` like so:
+
+```yaml
+goat_counter: MY_CODE
+```
+
+Similar to Disqus comments above, the Goat Counter tracking script will only appear in production when using the following environment value: `JEKYLL_ENV=production`.
+
 ### Other
 
 For more configuration options be sure to consult the documentation for:

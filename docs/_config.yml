@@ -36,6 +36,7 @@ google_fonts:
   - name: "Lora"
     weights: "400,400i,700,700i"
 google_analytics: "UA-2011187-2"
+goat_counter: "my-code"
 disqus:
   shortname: "sosimpletheme"
 twitter:
