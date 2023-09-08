@@ -35,7 +35,9 @@ google_fonts:
   - name: "Lora"
     weights: "400,400i,700,700i"
 google_analytics: # Google Analytics id, e.g. "UA-NNNNNNNN-N"
-goat_counter: # goat counter code
+goat_counter:
+  domain: # domain of the count call e.g., mycode.goatcounter.com
+  cdn: # optional custom domain for the script download, defaults to gc.zgo.at
 disqus:
   shortname: # Disqus shortname, e.g. "my_disqus_shortname"
 twitter:
